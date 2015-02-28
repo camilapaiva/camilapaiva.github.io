@@ -2,5 +2,7 @@
 
 # Todo
 
-* Attach latex cv
-* finish latec cv
+* Image descriptions
+* Animations
+* CV
+* mapping to camilapaiva.com
